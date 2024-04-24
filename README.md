@@ -10,9 +10,9 @@ O projeto Clima Tempo é uma aplicação web que permite verificar a temperatura
 
 ## Capturas de Tela
 
-![Tela Inicial](/assets/printstreen.jpg)
+![Tela Inicial](/src/assets/printstreen.jpg)
 
-![Tela Cidade](/assets/printstreen2.jpg)
+![Tela Cidade](/src/assets/printstreen2.jpg)
 
 ## Como usar
 
