@@ -8,11 +8,17 @@ O projeto Clima Tempo é uma aplicação web que permite verificar a temperatura
 - Buscar a temperatura de diferentes cidades, estados e países.
 - Exibir informações detalhadas sobre a temperatura, como máxima, mínima, umidade e descrição do clima.
 
+## Capturas de Tela
+
+![Tela Inicial](/assets/printstreen.jpg)
+
+![Tela Cidade](/assets/printstreen2.jpg)
+
 ## Como usar
 
 1. Clone este repositório para o seu ambiente local.
    ```
-   git clone https://github.com/PHSalazar/clima-tempo.git
+   git clone https://github.com/PHSalazar/clima-tempo-api-reactjs.git
    ```
 
 2. Instale as dependências do projeto utilizando o npm ou yarn.
@@ -43,7 +49,3 @@ O projeto Clima Tempo é uma aplicação web que permite verificar a temperatura
 ## Contribuição
 
 Contribuições são bem-vindas! Se você quiser contribuir com melhorias, correções de bugs ou novas funcionalidades, fique à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
