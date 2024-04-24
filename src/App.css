@@ -44,6 +44,8 @@ h1 {
   font-weight: 300;
 
   outline: none;
+
+  color: #213547;
 }
 .infoContainer {
   background: #eee;
@@ -68,10 +70,14 @@ h1 {
 #spanLoc {
   font-size: 1.5rem;
   font-weight: 1000;
+
+  color: #213547;
 }
 #spanTemp {
   font-size: 3.5rem;
   font-weight: 300;
+
+  color: #213547;
 }
 #spanDesc {
   font-size: 1rem;
@@ -81,6 +87,8 @@ h1 {
   display: flex;
   align-items: center;
   gap: 8px;
+
+  color: #213547;
 }
 #spanDesc > img {
   width: 24px;
