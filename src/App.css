@@ -25,14 +25,21 @@ h1 {
 }
 
 /* Form Procurar Localização */
-#inputForm {
+.inputForm {
   background: rgba(255, 255, 255, 0.55);
   width: 500px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 5px;
 }
+
+.inputForm:first-of-type {
+  border-radius: 5px 5px 0 0;
+}
+.inputForm:last-of-type {
+  border-radius: 0 0 5px 5px;
+}
+
 #q {
   background: none;
   border: none;
@@ -55,7 +62,7 @@ h1 {
   justify-content: center;
   flex-direction: column;
 }
-#inputForm > button[type=submit] {
+.inputForm > button[type=submit] {
   background: none;
   border: none;
   font-size: 1.5rem;
@@ -117,10 +124,10 @@ h1 {
 }
 
 @media (max-width: 600px) {
-  #inputForm {
+  .inputForm {
     width: 100vw;
   }
-  #inputForm {
+  .inputForm {
     width: 90vw;
   }
 }
